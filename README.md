@@ -249,7 +249,7 @@ plt.ylabel("Magnitude (dB)")
 plt.grid()
 plt.show()
 ```
-##### C언어 코드드
+##### C언어 코드
 ```c
 #include<stdio.h>
 int main()
